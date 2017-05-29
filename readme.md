@@ -6,6 +6,12 @@
 npm install
 ```
 
+### Run
+```
+1) npm start 
+1) react-native run-android
+```
+
 
 # BUG(S)
 <b>TextInput [type=password]</b> <br />
